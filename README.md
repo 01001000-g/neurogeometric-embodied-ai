@@ -1,6 +1,6 @@
 # Neurogeometric Embodied AI
 
-This repository contains the manuscript for *Neurogeometric Embodied AI: A Topological Framework for Structured Cognition*, an independent research paper by Bryan [Last Name].
+This repository contains the manuscript for *Neurogeometric Embodied AI: A Topological Framework for Structured Cognition*, an independent research paper by B. Matthew Gossage.
 
 ## Contents
 - `Neurogeometric_Embodied_AI_v1_2.pdf`: Final manuscript
